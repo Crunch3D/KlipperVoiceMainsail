@@ -1,0 +1,23 @@
+# Environnement virtuel
+nom_env/
+venv/
+env/
+
+# Fichiers de configuration sensibles
+.env
+keys.json
+keys_google.json
+*.key
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
